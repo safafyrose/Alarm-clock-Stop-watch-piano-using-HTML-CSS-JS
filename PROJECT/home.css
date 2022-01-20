@@ -1,0 +1,35 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+    color: whitesmoke;
+    font-family: "Times New Roman", Times, serif;
+    background-color:#ec410d;
+  }
+  .header {
+    box-shadow: 1px 1px 10px 2px whitesmoke;
+    border :20px solid whitesmoke;
+    padding: 50px;
+    text-align: center;
+    background:#cefa0d;
+    color: white;
+    font-size: 30px;
+  }
+  .container {
+     
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }   
+  .nav li {
+      display: inline-block;
+      font-size: 20px;
+      padding: 20px;
+    }
+  
+  .link{
+  color: rgb(211, 231, 192);
+  }
+  
